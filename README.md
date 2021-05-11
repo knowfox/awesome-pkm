@@ -15,6 +15,7 @@ A curated list of brilliantly awesome approaches, articles, and tools for Person
 ## Articles
 
 * [Wikipedia (German): Persönliches Wissensmanagement](https://de.wikipedia.org/wiki/Pers%C3%B6nliches_Wissensmanagement)
+* [2021-05-06: Obsidian vs. Roam: Which PKM App is Right For You?] - Article with comprehensive criteria catalogue
 
 ## Tools
 
