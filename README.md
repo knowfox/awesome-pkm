@@ -2,7 +2,7 @@
 
 ![white library](assets/library-1024.jpg)
 
-A curated list of brilliantly awesome approaches, articles, and tools for Personal Knowledge Management ("PKM").
+A curated list of brilliantly awesome approaches, articles, and tools for Personal Knowledge Management ("PKM") or, as they are now frequently dubbed [Tools for Thought](https://twitter.com/hashtag/toolsforthought).
 
 ## Approaches
 
